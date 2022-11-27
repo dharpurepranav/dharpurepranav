@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Data Science Enthusiast!!</h3>
 <img align="right" alt="Coding" width="400" src="https://diceanalytics.pk/wp-content/uploads/2019/04/865434-2.png">
 
-- 🔭 I’m currently working on **Various projects in the field of Data Science & ML**
+- 🔭 I’m currently working on **Various projects in the field of Data Analytics**
 
-- 🌱 I’m currently learning **Data Science & ML**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **dharpurepranav@gmail.com**
 
