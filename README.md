@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Various projects in the field of Data Analytics**
 
+- 🔭 I’m currently working as an Intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="dharpurepranav" height="20" width="60" /></a>
+
 - 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **dharpurepranav@gmail.com**
@@ -23,5 +25,35 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharpurepranav&show_icons=true&locale=en&layout=compact" alt="dharpurepranav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharpurepranav&show_icons=true&locale=en" alt="dharpurepranav" /></p>
+
+## `📈 GitHub Activity Graph:`
+[![Pranav Dharpure GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=dharpurepranav&&theme=react-dark)](https://github.com/dharpurepranav)
+
+## `Github Status:` 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dharpurepranav&label=Profile%20views&color=0e75b6&style=circle" alt="dharpurepranav" width="16%" /> </p>
+<p align="center"> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharpurepranav&theme=tokyonight&hide=css,tcl,html&hide_border=false&border_color=808080&bg_color=242424" alt="dharpurepranav" />
+</p>
+<p align='center'> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=dharpurepranav&show_icons=true&theme=tokyonight"/> </p>
+<p align='center'> <img src="http://github-readme-streak-stats.herokuapp.com?user=dharpurepranav&theme=neon-palenight" width="50%"  alt="streak"> </p>
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MoinDalvs&show_icons=true&theme=discord" alt="dharpurepranav" />
+</a> </p>
+
+<div style="align:center;
+            display:fill;
+            border-radius: false;
+            border-style: solid;
+            border-color:#000000;
+            border-style: false;
+            border-width: 2px;
+            color:#CF673A;
+            font-size:15px;
+            font-family: Georgia;
+            background-color:#E8DCCC;
+            text-align:center;
+            letter-spacing:0.1px;
+            padding: 0.1em;">
 
 **<h2>♡ Thank you for taking the time ♡**
